@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on www.opensourcemotorsports.com</title>
-    <link>https://www.opensourcemotorsports.com/posts/</link>
-    <description>Recent content in Posts on www.opensourcemotorsports.com</description>
+    <title>Posts on www.osms.io</title>
+    <link>https://www.osms.io/posts/</link>
+    <description>Recent content in Posts on www.osms.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2020 16:52:01 -0500</lastBuildDate>
     
-	<atom:link href="https://www.opensourcemotorsports.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.osms.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Site Up</title>
-      <link>https://www.opensourcemotorsports.com/posts/site-up/</link>
+      <link>https://www.osms.io/posts/site-up/</link>
       <pubDate>Fri, 03 Jan 2020 16:52:01 -0500</pubDate>
       
-      <guid>https://www.opensourcemotorsports.com/posts/site-up/</guid>
+      <guid>https://www.osms.io/posts/site-up/</guid>
       <description>Hey folks, been working on getting the site a bit more crisp. And I have an update to the progress with the car.
 I have ordered a RockStar Garage (RSG) roll bar. If you are in the market for anything pertaining to your S2k. Look no further than Justin Taylor. Justin has been in the scene for quite sometime. He is honest, and always willing to help with information. He truly seems to try and put his best foot forward in dealing with just the s2k crowd.</description>
     </item>
     
     <item>
       <title>Need to give back</title>
-      <link>https://www.opensourcemotorsports.com/posts/my-first-post/</link>
+      <link>https://www.osms.io/posts/my-first-post/</link>
       <pubDate>Wed, 01 Jan 2020 16:25:57 -0500</pubDate>
       
-      <guid>https://www.opensourcemotorsports.com/posts/my-first-post/</guid>
+      <guid>https://www.osms.io/posts/my-first-post/</guid>
       <description>Hey Guys, apologies for the downtime however there was a bit of hussle around the holidays. With swapping out the blogging software, to sourcing parts, getting gifts for family members. It&amp;rsquo;s been hard to find time to turn a wrench. That said no complaints, just wanted to bring the site back to life with more material.
 Was going to use Nikola, for the static webhosting, but found hugo and surge. And that is enough for me to get this up and running.</description>
     </item>

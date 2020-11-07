@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Specs on www.opensourcemotorsports.com</title>
-    <link>https://www.opensourcemotorsports.com/specs/</link>
-    <description>Recent content in Specs on www.opensourcemotorsports.com</description>
+    <title>Specs on www.osms.io</title>
+    <link>https://www.osms.io/specs/</link>
+    <description>Recent content in Specs on www.osms.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2020 17:22:02 -0500</lastBuildDate>
     
-	<atom:link href="https://www.opensourcemotorsports.com/specs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.osms.io/specs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>K Swap Parts List</title>
-      <link>https://www.opensourcemotorsports.com/specs/parts_list/</link>
+      <link>https://www.osms.io/specs/parts_list/</link>
       <pubDate>Fri, 03 Jan 2020 14:59:41 -0500</pubDate>
       
-      <guid>https://www.opensourcemotorsports.com/specs/parts_list/</guid>
+      <guid>https://www.osms.io/specs/parts_list/</guid>
       <description>Here is my attempt to share a living document of all of the parts needed for the kswap.
 If there are other distributors of these kits please ping me and let me know.
 This does not include the k swap kit that one can source from the following distributors:
